@@ -1,4 +1,7 @@
-# api documentation for  [imageoptim-cli (v1.14.9)](https://github.com/JamieMason/ImageOptim-CLI)  [![npm package](https://img.shields.io/npm/v/npmdoc-imageoptim-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imageoptim-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imageoptim-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imageoptim-cli)
+# npmdoc-imageoptim-cli
+
+#### basic api documentation for  [imageoptim-cli (v1.14.9)](https://github.com/JamieMason/ImageOptim-CLI)  [![npm package](https://img.shields.io/npm/v/npmdoc-imageoptim-cli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-imageoptim-cli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-imageoptim-cli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-imageoptim-cli)
+
 #### Automates ImageOptim, ImageAlpha, and JPEGmini for Mac to make batch optimisation of images part of your automated build process.
 
 [![NPM](https://nodei.co/npm/imageoptim-cli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/imageoptim-cli)
